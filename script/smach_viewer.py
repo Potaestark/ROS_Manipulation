@@ -1,0 +1,5 @@
+sis = smach_ros.IntrospectionServer('server_name', sm, '/SM_ROOT')
+sis.start()
+outcome = sm.execute()
+rospy.spin()
+sis.stop()

@@ -1,0 +1,7 @@
+int16 command
+float32 x
+float32 y
+float32 z
+float32 theta
+---
+bool success

@@ -1,0 +1,4 @@
+int16[] position
+string type
+---
+xyz real_position
